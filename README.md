@@ -1,5 +1,10 @@
 # Hi, fren! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is CryptoShuriken
 
+[![CryptoShuriken Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cryptoshuriken)
+[![CryptoShuriken Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://cryptoshuriken.com/)
+[![CryptoShuriken Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cryptoshuriken/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://twitter.com/cryptoshuriken)
+
 ## Web3 Content Creator & Technical Writer
 
 I'm a curious nerd currently diving into the Web3 rabbit role, learning new things and writing about them.
@@ -29,10 +34,6 @@ src="https://img.shields.io/github/followers/cryptoshuriken?logo=github&style=fo
 <a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
 
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.twitter.com/cryptoshuriken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://cryptoshuriken.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.dev.to/cryptoshuriken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@cryptoshuriken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/cryptoshuriken" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  </p>
 
 ### Badges
 
