@@ -1,4 +1,4 @@
-# Hi, fren! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is CryptoShuriken
+# Hi, fren! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) It's CryptoShuriken! ✨
 
 [![CryptoShuriken Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cryptoshuriken)
 [![CryptoShuriken Blog](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://cryptoshuriken.com/)
@@ -11,7 +11,7 @@ I'm a curious nerd currently diving into the Web3 rabbit role, learning new thin
 
 - ✍️  Read my blog at [CryptoShuriken.com](http://cryptoshuriken.com)
 - 📩 You can contact me at cryptoshuriken[@]gmail[dot]com
-- 🧠  I'm learning always learning new things about Web3.
+- 🧠  I'm always learning new things about Web3.
 - 🤝  I'm open to collaborating on Content Creation & Technical Writing opportunities.
 - ⚡  My Superpower - I can learn anything.
 
